@@ -22,4 +22,4 @@ async def on_message(message):
     if message.content == "Hello":
         await message.channel.send("Hello, world!")
 
-client.run("MTE3MDk3MDgwMDUzOTU4MjUyNQ.GNS-HD.w1Pz20rixM3mZVsuHdOWBPHgJOWLIGLFseNUxU")
+client.run("機器人的token")
