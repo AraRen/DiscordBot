@@ -19,4 +19,4 @@ async def Hello(ctx):
     # 回覆Hello, world!
     await ctx.send("Hello, world!")
 
-bot.run("MTE3MDk3MDgwMDUzOTU4MjUyNQ.GNS-HD.w1Pz20rixM3mZVsuHdOWBPHgJOWLIGLFseNUxU")
+bot.run("機器人的token")
